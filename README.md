@@ -72,8 +72,8 @@ Executives: Enable decisions based on profitability, not just revenue
 
 Interactive dashboard highlighting sales trends, profitability insights, and regional performance.
 
-📁 Project File
-Retail sales & profit analysis dashboard.pbix
+ 📁 Project File
+Download here: https://drive.google.com/file/d/1qPaRqcDcuTgIX3j3iSItM2mwOgNJ6gI0/view?usp=drive_link
 Complete Power BI file including data model, DAX measures, and report pages
 
 📌 Conclusion
